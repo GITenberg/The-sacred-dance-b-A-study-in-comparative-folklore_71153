@@ -1,11 +1,16 @@
 _repo: The-sacred-dance-b-A-study-in-comparative-folklore_71153
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71153-h/images/cover.jpg
 creator:
   author:
     agent_name: Oesterley, William Oscar Emil
     gutenberg_agent_id: '56095'
     url: http://www.gutenberg.org/2009/agents/56095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71153#The-sacred-dance-b-A-study-in-comparative-folklore
 gutenberg_issued: '2023-07-09'
 identifiers:
   gutenberg: '71153'
